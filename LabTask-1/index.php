@@ -40,8 +40,8 @@
         <tr/>
         </form>
         <tr>
-        <td><input type="submit" value="Submit"><td>
-        <td><input type="reset"><td>
+        <td><input type="submit" value="Submit">
+        <input type="reset"><td/>
         <tr/>
     </body>
 </html>
