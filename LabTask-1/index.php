@@ -38,10 +38,11 @@
         <tr>
         <td>Please Choose a file:<td/> <td><input type="file"><br><td/>
         <tr/>
-        </form>
         <tr>
         <td><input type="submit" value="Submit">
         <input type="reset"><td/>
         <tr/>
+        </table>
+        </form>
     </body>
 </html>
